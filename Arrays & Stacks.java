@@ -95,9 +95,9 @@ public class Solution {
         return true;
     }
 }
-
-4. *** 242. Valid Anagram ***
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. *** 242. Valid Anagram ***
+
 public class Solution {
     public boolean isAnagram(String s, String t) {
         

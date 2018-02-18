@@ -36,6 +36,9 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 30. *** 122. Best Time to Buy and Sell Stock II ***   
 31. *** 134. Gas Station ***
 32. *** 169. Majority Element ***
+33. *** 200. Number of Islands ***
+34. *** 217. Contains Duplicate ***
+35. *** 227. Basic Calculator II ***
 
 ## Linked List
 

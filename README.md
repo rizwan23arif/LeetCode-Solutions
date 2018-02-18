@@ -49,7 +49,7 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 
 ## Trees
 
-1.*** 515. Find Largest Value in Each Tree Row ***
+1. *** 515. Find Largest Value in Each Tree Row ***
 2. *** 513. Find Bottom Left Tree Value ***
 3. *** 230. Kth Smallest Element in a BST ***
 4. *** 145. Binary Tree Postorder Traversal ***

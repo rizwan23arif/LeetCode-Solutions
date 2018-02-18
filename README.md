@@ -30,6 +30,7 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 24. *** 461. Hamming Distance ***
 25. *** 448. Find All Numbers Disappeared in an Array ***
 26. *** 11. Container With Most Water ***
+27. *** 28. Implement strStr()
 
 ## Linked List
 

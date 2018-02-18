@@ -32,6 +32,8 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 26. *** 11. Container With Most Water ***
 27. *** 28. Implement strStr() ***
 28. *** 56. Merge Intervals ***
+29. *** 121. Best Time to Buy and Sell Stock ***
+30. *** 122. Best Time to Buy and Sell Stock II ***   
 
 ## Linked List
 

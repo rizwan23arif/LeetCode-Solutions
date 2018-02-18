@@ -30,3 +30,37 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 24. *** 461. Hamming Distance ***
 25. *** 448. Find All Numbers Disappeared in an Array ***
 26. *** 11. Container With Most Water ***
+
+## Linked List
+
+1.*** PROBLEM 237: DELETE NODE IN A LINKED LIST ***
+2.*** PROBLEM 234. Palindrome Linked List ***
+3. *** 206. Reverse Linked List ***
+4. *** 203. Remove Linked List Elements ***
+5. *** 160. Intersection of Two Linked Lists ***
+6. *** 147. Insertion Sort List ***
+7. *** 141. Linked List Cycle ***
+8. *** 142. Linked List Cycle II ***
+9. *** 92. Reverse Linked List II ***
+10. *** 83. Remove Duplicates from Sorted List ***
+11. *** 19. Remove Nth Node From End of List ***
+12. *** 24. Swap Nodes in Pairs ***
+13. *** 21. Merge Two Sorted Lists ***
+
+## Trees
+
+1.*** PROBLEM 515. Find Largest Value in Each Tree Row ***
+2. *** PROBLEM 513. Find Bottom Left Tree Value ***
+3. *** 230. Kth Smallest Element in a BST ***
+4. *** 145. Binary Tree Postorder Traversal ***
+5. *** 144. Binary Tree Preorder Traversal ***
+6. *** 94. Binary Tree Inorder Traversal ***
+7. *** 129. Sum Root to Leaf Numbers ***
+8. *** 116. Populating Next Right Pointers in Each Node ***
+9. *** 117. Populating Next Right Pointers in Each Node II ***
+10. *** 112. Path Sum ***
+11. *** 110. Balanced Binary Tree ***
+12. *** 105. Construct Binary Tree from Preorder and Inorder Traversal ***
+13. *** 104. Maximum Depth of Binary Tree ***
+14. *** 101. Symmetric Tree ***
+15. *** 100. Same Tree ***

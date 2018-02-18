@@ -33,8 +33,8 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 
 ## Linked List
 
-1.*** PROBLEM 237: DELETE NODE IN A LINKED LIST ***
-2.*** PROBLEM 234. Palindrome Linked List ***
+1. *** 237. DELETE NODE IN A LINKED LIST ***
+2. *** 234. Palindrome Linked List ***
 3. *** 206. Reverse Linked List ***
 4. *** 203. Remove Linked List Elements ***
 5. *** 160. Intersection of Two Linked Lists ***

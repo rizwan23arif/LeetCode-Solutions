@@ -45,6 +45,11 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 39. *** 387. First Unique Character in a String ***
 40. *** 412. Fizz Buzz ***
 41. *** 454. 4Sum II ***
+42. *** 557. Reverse Words in a String III ***
+43. *** 561. Array Partition I ***
+44. *** 650. 2 Keys Keyboard ***
+45. *** 653. Two Sum IV - Input is a BST ***
+46. *** 657. Judge Route Circle ***
 
 ## Linked List
 

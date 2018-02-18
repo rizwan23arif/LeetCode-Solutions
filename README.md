@@ -43,6 +43,8 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 37. *** 344. Reverse String ***
 38. *** 347. Top K Frequent Elements ***
 39. *** 387. First Unique Character in a String ***
+40. *** 412. Fizz Buzz ***
+41. *** 454. 4Sum II ***
 
 ## Linked List
 

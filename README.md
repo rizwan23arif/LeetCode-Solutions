@@ -39,6 +39,10 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 33. *** 200. Number of Islands ***
 34. *** 217. Contains Duplicate ***
 35. *** 227. Basic Calculator II ***
+36. *** 238. Product of Array Except Self ***
+37. *** 344. Reverse String ***
+38. *** 347. Top K Frequent Elements ***
+39. *** 387. First Unique Character in a String ***
 
 ## Linked List
 

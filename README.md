@@ -4,20 +4,20 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 
 ## Arrays and Stacks
 
-1. (79) WORD SEARCH
-2. (20) Valid Parentheses
-3. (125) Valid Palindrome
-4. (242) Valid Anagram
-5. (1) Two Sum
-6. (414) Third Maximum Number
-7. (136) Single Number
-8. (137) Single Number II
-9. (35) Search Insert Position
-10. (48) Rotate Image
-11. (189) Rotate Array
-12. (345) Reverse Vowels of a String
-13. (27) Remove Element
-14. (26) Remove Duplicates from Sorted Array
+1. Word Search(79) 
+2. Valid Parentheses(20) 
+3. Valid Palindrome(125) 
+4. Valid Anagram(242) 
+5. Two Sum(1) 
+6. Third Maximum Number(414) 
+7. Single Number(136) 
+8. Single Number II(137) 
+9. Search Insert Position(35) 
+10. Rotate Image(48) 
+11. Rotate Array(189) 
+12. Reverse Vowels of a String(345) 
+13. Remove Element(27) 
+14. Remove Duplicates from Sorted Array(26) 
 15. (383) Ransom Note
 16. (342) Power of Four
 17. (118) Pascal's Triangle

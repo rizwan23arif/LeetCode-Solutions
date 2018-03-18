@@ -52,35 +52,35 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 
 ## Linked List
 
-1. *** 237. DELETE NODE IN A LINKED LIST ***
-2. *** 234. Palindrome Linked List ***
-3. *** 206. Reverse Linked List ***
-4. *** 203. Remove Linked List Elements ***
-5. *** 160. Intersection of Two Linked Lists ***
-6. *** 147. Insertion Sort List ***
-7. *** 141. Linked List Cycle ***
-8. *** 142. Linked List Cycle II ***
-9. *** 92. Reverse Linked List II ***
-10. *** 83. Remove Duplicates from Sorted List ***
-11. *** 19. Remove Nth Node From End of List ***
-12. *** 24. Swap Nodes in Pairs ***
-13. *** 21. Merge Two Sorted Lists ***
+1. DELETE NODE IN A LINKED LIST(237)
+2. Palindrome Linked List(234)
+3. Reverse Linked List(206) 
+4. Remove Linked List Elements(203) 
+5. Intersection of Two Linked Lists(160) 
+6. Insertion Sort List(147)
+7. Linked List Cycle(141) 
+8. Linked List Cycle II(142) 
+9. Reverse Linked List II(92) 
+10. Remove Duplicates from Sorted List(83) 
+11. Remove Nth Node From End of List(19) 
+12. Swap Nodes in Pairs(24) 
+13. Merge Two Sorted Lists(21) 
 
 ## Trees
 
-1. *** 515. Find Largest Value in Each Tree Row ***
-2. *** 513. Find Bottom Left Tree Value ***
-3. *** 230. Kth Smallest Element in a BST ***
-4. *** 145. Binary Tree Postorder Traversal ***
-5. *** 144. Binary Tree Preorder Traversal ***
-6. *** 94. Binary Tree Inorder Traversal ***
-7. *** 129. Sum Root to Leaf Numbers ***
-8. *** 116. Populating Next Right Pointers in Each Node ***
-9. *** 117. Populating Next Right Pointers in Each Node II ***
-10. *** 112. Path Sum ***
-11. *** 110. Balanced Binary Tree ***
-12. *** 105. Construct Binary Tree from Preorder and Inorder Traversal ***
-13. *** 104. Maximum Depth of Binary Tree ***
-14. *** 101. Symmetric Tree ***
-15. *** 100. Same Tree ***
-16. *** 653. Two Sum IV - Input is a BST ***
+1. Find Largest Value in Each Tree Row(515) 
+2. Find Bottom Left Tree Value(513)
+3. Kth Smallest Element in a BST(230) 
+4. Binary Tree Postorder Traversal(145) 
+5. Binary Tree Preorder Traversal(144) 
+6. Binary Tree Inorder Traversa(l94) 
+7. Sum Root to Leaf Numbers(129)
+8. Populating Next Right Pointers in Each Node(116) 
+9. Populating Next Right Pointers in Each Node II(117) 
+10. Path Sum(112) 
+11. Balanced Binary Tree(110) 
+12. Construct Binary Tree from Preorder and Inorder Traversal(105) 
+13. Maximum Depth of Binary Tree(104) 
+14. Symmetric Tree(101) 
+15. Same Tree(100) 
+16. Two Sum IV - Input is a BST(653) 

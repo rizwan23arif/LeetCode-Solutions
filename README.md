@@ -4,51 +4,51 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 
 ## Arrays and Stacks
 
-1. *** 79. WORD SEARCH ***
-2. *** 20. Valid Parentheses ***
-3. *** 125. Valid Palindrome ***
-4. *** 242. Valid Anagram ***
-5. *** 1. Two Sum ***
-6. *** 414. Third Maximum Number ***
-7. *** 136. Single Number ***
-8. *** 137. Single Number II ***
-9. *** 35. Search Insert Position ***
-10. *** 48. Rotate Image ***
-11. *** 189. Rotate Array ***
-12. *** 345. Reverse Vowels of a String ***
-13. *** 27. Remove Element ***
-14. *** 26. Remove Duplicates from Sorted Array ***
-15. *** 383. Ransom Note ***
-16. *** 342. Power of Four ***
-17. *** 118. Pascal's Triangle ***
-18. *** 119. Pascal's Triangle II ***
-19. *** 496. Next Greater Element I ***
-20. *** 283. Move Zeroes ***
-21. *** 485. Max Consecutive Ones ***
-22. *** 205. Isomorphic Strings ***
-23. *** 350. Intersection of Two Arrays II ***
-24. *** 461. Hamming Distance ***
-25. *** 448. Find All Numbers Disappeared in an Array ***
-26. *** 11. Container With Most Water ***
-27. *** 28. Implement strStr() ***
-28. *** 56. Merge Intervals ***
-29. *** 121. Best Time to Buy and Sell Stock ***
-30. *** 122. Best Time to Buy and Sell Stock II ***   
-31. *** 134. Gas Station ***
-32. *** 169. Majority Element ***
-33. *** 200. Number of Islands ***
-34. *** 217. Contains Duplicate ***
-35. *** 227. Basic Calculator II ***
-36. *** 238. Product of Array Except Self ***
-37. *** 344. Reverse String ***
-38. *** 347. Top K Frequent Elements ***
-39. *** 387. First Unique Character in a String ***
-40. *** 412. Fizz Buzz ***
-41. *** 454. 4Sum II ***
-42. *** 557. Reverse Words in a String III ***
-43. *** 561. Array Partition I ***
-44. *** 650. 2 Keys Keyboard ***
-45. *** 657. Judge Route Circle ***
+1. (79) WORD SEARCH
+2. (20) Valid Parentheses
+3. (125) Valid Palindrome
+4. (242) Valid Anagram
+5. (1) Two Sum
+6. (414) Third Maximum Number
+7. (136) Single Number
+8. (137) Single Number II
+9. (35) Search Insert Position
+10. (48) Rotate Image
+11. (189) Rotate Array
+12. (345) Reverse Vowels of a String
+13. (27) Remove Element
+14. (26) Remove Duplicates from Sorted Array
+15. (383) Ransom Note
+16. (342) Power of Four
+17. (118) Pascal's Triangle
+18. (119) Pascal's Triangle II
+19. (496) Next Greater Element I
+20. (283) Move Zeroes
+21. (485) Max Consecutive Ones
+22. (205) Isomorphic Strings
+23. (350) Intersection of Two Arrays II
+24. (461) Hamming Distance
+25. (448) Find All Numbers Disappeared in an Array
+26. (11) Container With Most Water
+27. (28) Implement strStr()
+28. (56) Merge Intervals
+29. (121) Best Time to Buy and Sell Stock
+30. (122) Best Time to Buy and Sell Stock II  
+31. (134) Gas Station
+32. (169) Majority Element
+33. (200) Number of Islands
+34. (217) Contains Duplicate
+35. (227) Basic Calculator II
+36. (238) Product of Array Except Self
+37. (344) Reverse String
+38. (347) Top K Frequent Elements
+39. (387) First Unique Character in a String
+40. (412) Fizz Buzz
+41. (454) 4Sum II
+42. (557) Reverse Words in a String III
+43. (561) Array Partition I
+44. (650) 2 Keys Keyboard
+45. (657) Judge Route Circle
 
 ## Linked List
 

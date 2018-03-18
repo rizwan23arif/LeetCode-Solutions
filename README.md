@@ -18,37 +18,37 @@ This repository contains the LeetCode problem solved by me in JAVA and Python la
 12. Reverse Vowels of a String(345) 
 13. Remove Element(27) 
 14. Remove Duplicates from Sorted Array(26) 
-15. (383) Ransom Note
-16. (342) Power of Four
-17. (118) Pascal's Triangle
-18. (119) Pascal's Triangle II
-19. (496) Next Greater Element I
-20. (283) Move Zeroes
-21. (485) Max Consecutive Ones
-22. (205) Isomorphic Strings
-23. (350) Intersection of Two Arrays II
-24. (461) Hamming Distance
-25. (448) Find All Numbers Disappeared in an Array
-26. (11) Container With Most Water
-27. (28) Implement strStr()
-28. (56) Merge Intervals
-29. (121) Best Time to Buy and Sell Stock
-30. (122) Best Time to Buy and Sell Stock II  
-31. (134) Gas Station
-32. (169) Majority Element
-33. (200) Number of Islands
-34. (217) Contains Duplicate
-35. (227) Basic Calculator II
-36. (238) Product of Array Except Self
-37. (344) Reverse String
-38. (347) Top K Frequent Elements
-39. (387) First Unique Character in a String
-40. (412) Fizz Buzz
-41. (454) 4Sum II
-42. (557) Reverse Words in a String III
-43. (561) Array Partition I
-44. (650) 2 Keys Keyboard
-45. (657) Judge Route Circle
+15. Ransom Note(383) 
+16. Power of Four(342) 
+17. Pascal's Triangle(118) 
+18. Pascal's Triangle II(119) 
+19. Next Greater Element I(496) 
+20. Move Zeroes(283) 
+21. Max Consecutive Ones(485) 
+22. Isomorphic Strings(205) 
+23. Intersection of Two Arrays II(350) 
+24. Hamming Distance(461) 
+25. Find All Numbers Disappeared in an Array(448) 
+26. Container With Most Water(11) 
+27. Implement strStr()(28) 
+28. Merge Intervals(56) 
+29. Best Time to Buy and Sell Stock(121) 
+30. Best Time to Buy and Sell Stock II(122)   
+31. Gas Station(134) 
+32. Majority Element(169) 
+33. Number of Islands(200) 
+34. Contains Duplicate(217) 
+35. Basic Calculator II(227) 
+36. Product of Array Except Self(238) 
+37. Reverse String(344) 
+38. Top K Frequent Elements(347) 
+39. First Unique Character in a String(387) 
+40. Fizz Buzz(412) 
+41. 4Sum II(454) 
+42. Reverse Words in a String III(557) 
+43. Array Partition I(561) 
+44. 2 Keys Keyboard(650) 
+45. Judge Route Circle(657) 
 
 ## Linked List
 
